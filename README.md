@@ -1,4 +1,4 @@
-- Hi, I'm pi and I think I like programming, idk tho
+- hi, i'm pi and i think i like programming, idk tho
 
 <!---
 pi22by7/pi22by7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
