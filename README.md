@@ -12,7 +12,10 @@ I code and stuff.
 - ⚡ Fun fact **There are atleast 3 in the world.**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">     
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ableton,androidstudio,arduino,docker,c,vim,typescript,tensorflow&perline=5" />
+  </a>
 </p>
 
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
