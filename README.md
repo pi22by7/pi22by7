@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning **SvelteKit, Solidity, Keras**
 - 👯 I’m looking to collaborate on **JUCE and reapy apps**
 - 🤝 I’m looking for help with [Football-AI](https://github.com/pi22by7/Football-AI)
-- 👨‍💻 All of my projects are available at [pi22by7.me](pi22by7.me)
-- 📝 I regularly write articles on [piyushstuff.medium.com](piyushstuff.medium.com)
+- 👨‍💻 All of my projects are available at [pi22by7.me](https://pi22by7.me)
+- 📝 I regularly write articles on [piyushstuff.medium.com](https://piyushstuff.medium.com/)
 - 💬 Ask me about **react, scikit-learn, qt5**
 - 📫 How to reach me **supmanireallywannatalktoyou@pi22by7.me**
 - ⚡ Fun fact **There are atleast 3 in the world.**
@@ -37,11 +37,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/piratesoutoften" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piratesoutoften" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/piyush-airani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-airani" height="30" width="40" /></a>
-<a href="https://instagram.com/pi_22by7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pi_22by7" height="30" width="40" /></a>
-<a href="https://medium.com/@piyushstuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@piyushstuff" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pi22by7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pi22by7" height="30" width="40" /></a>
+ <a href="https://twitter.com/piratesoutoften" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piratesoutoften" height="30" width="40" />
+ </a>
+ <a href="https://linkedin.com/in/piyush-airani" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-airani" height="30" width="40" />
+ </a>
+ <a href="https://instagram.com/pi_22by7" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pi_22by7" height="30" width="40" />
+ </a>
+ <a href="https://medium.com/@piyushstuff" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@piyushstuff" height="30" width="40" />
+ </a>
+ <a href="https://www.leetcode.com/pi22by7" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pi22by7" height="30" width="40" />
+ </a>
 </p>
 
 ## Blogs posts
