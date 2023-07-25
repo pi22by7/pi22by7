@@ -14,7 +14,7 @@ I code and stuff.
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,androidstudio,arduino,docker,c,vim,typescript,tensorflow&perline=5" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,ts,matlab,react,svelte,tailwind,nodejs,mongodb,androidstudio,arduino,idea,blender,unreal,docker,aws,bash,git,linux,ableton,ps,ai,au,ae&perline=5" />
   </a>
 </p>
 
