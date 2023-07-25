@@ -47,8 +47,8 @@ I code and stuff.
 </p>
 
 ## ✍🏽 Blogs posts
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@piyushstuff/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@piyushstuff/0" alt="Recent Article 0"> 
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ---
