@@ -1,10 +1,6 @@
 <h1 align="center">sup, me llamo Pi</h1>
 <h3 align="center">I code and stuff.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pi22by7&label=Profile%20views&color=8f2d97&style=flat-square" alt="pi22by7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pi22by7" alt="pi22by7" /></a> </p>
-
 - 🔭 I’m currently working on [scrapegoat](https://github.com/pi22by7/scrapegoat)
 
 - 🌱 I’m currently learning **SvelteKit, Solidity, Keras**
@@ -44,6 +40,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pi22by7&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="pi22by7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pi22by7&theme=dark" alt="pi22by7" /></p>
+
 
 
 ---
