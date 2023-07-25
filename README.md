@@ -1,4 +1,4 @@
-<h1 align="left">sup, me llamo Pi</h1>
+<h1 align="left">I'm Pi.</h1>
 <h3 align="left">I code and stuff.</h3>
 
 - 🔭 I’m currently working on [scrapegoat](https://github.com/pi22by7/scrapegoat)
