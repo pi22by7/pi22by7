@@ -11,7 +11,7 @@ I code and stuff.
 - 📫 How to reach me **supmanireallywannatalktoyou@pi22by7.me**
 - ⚡ Fun fact **There are atleast 3 in the world.**
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,py,ts,matlab,react,svelte,tailwind,nodejs,mongodb,androidstudio,arduino,idea,blender,unreal,docker,aws,bash,git,linux,ableton,ps,ai,au,ae&perline=5" />
@@ -27,7 +27,7 @@ I code and stuff.
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pi22by7&theme=tokyonight" alt="stats" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="center">
  <a href="https://twitter.com/piratesoutoften" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piratesoutoften" height="30" width="40" />
