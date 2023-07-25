@@ -9,7 +9,7 @@ I code and stuff.
 - 📝 I regularly write articles on [piyushstuff.medium.com](https://piyushstuff.medium.com/)
 - 💬 Ask me about **react, scikit-learn, qt5**
 - 📫 How to reach me **supmanireallywannatalktoyou@pi22by7.me**
-- ⚡ Fun fact **There are atleast 3 in the world.**
+- ⚡ Fun fact: **snails sleep for atleast 3**
 
 ## 🛠️ Languages and Tools
 <p align="center">
