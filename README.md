@@ -1,4 +1,4 @@
-# <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px">I'm Pi.
+# <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> I'm Pi.
 I code and stuff.
 
 - 🔭 I’m currently working on [scrapegoat](https://github.com/pi22by7/scrapegoat)
@@ -11,7 +11,7 @@ I code and stuff.
 - 📫 How to reach me **supmanireallywannatalktoyou@pi22by7.me**
 - ⚡ Fun fact **There are atleast 3 in the world.**
 
-## 🛠️Languages and Tools
+## 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,py,ts,matlab,react,svelte,tailwind,nodejs,mongodb,androidstudio,arduino,idea,blender,unreal,docker,aws,bash,git,linux,ableton,ps,ai,au,ae&perline=5" />
@@ -27,7 +27,7 @@ I code and stuff.
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pi22by7&theme=tokyonight" alt="stats" />
 </p>
 
-## Connect with me
+## 🎙️ Connect with me
 <p align="center">
  <a href="https://twitter.com/piratesoutoften" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piratesoutoften" height="30" width="40" />
@@ -46,7 +46,7 @@ I code and stuff.
  </a>
 </p>
 
-## Blogs posts
+## ✍🏽 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
