@@ -52,5 +52,5 @@ I code and stuff.
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pi22by7&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pi22by7&icon=0&color=5)](https://pi22by7.me)
 
