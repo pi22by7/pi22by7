@@ -13,7 +13,7 @@ I code and stuff.
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=cpp,java,py,ts,matlab,react,svelte,tailwind,nodejs,mongodb,androidstudio,arduino,idea,blender,unreal,docker,aws,bash,git,linux,ableton,ps,ai,au,ae&perline=5" />
   </a>
 </p>
