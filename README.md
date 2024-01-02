@@ -1,13 +1,13 @@
 # <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> I'm Pi.
 I code and stuff.
 
-- 🔭 I’m currently working on [scrapegoat](https://github.com/pi22by7/scrapegoat)
-- 🌱 I’m currently learning **SvelteKit, Solidity, Keras**
-- 👯 I’m looking to collaborate on **JUCE and reapy apps**
-- 🤝 I’m looking for help with [Football-AI](https://github.com/pi22by7/Football-AI)
+- 🔭 I’m currently working on [Wallrus](https://github.com/pi22by7/Wallrus)
+- 🌱 I’m currently learning **SvelteKit, Rust**
+- 👯 I’m looking to collaborate on **Audio Programs and Drivers**
+- 🤝 I’m looking for help with [scrapegoat](https://github.com/pi22by7/scrapegoat)
 - 👨‍💻 All of my projects are available at [pi22by7.me](https://pi22by7.me)
 - 📝 I regularly write articles on [piyushstuff.medium.com](https://piyushstuff.medium.com/)
-- 💬 Ask me about **react, scikit-learn, qt5**
+- 💬 Ask me about **react, tauri, qt5**
 - 📫 How to reach me **supmanireallywannatalktoyou@pi22by7.me**
 - ⚡ Fun fact: **snails sleep for atleast 3**
 
