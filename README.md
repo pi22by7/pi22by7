@@ -6,7 +6,7 @@ I code and stuff.
 - 👯 I’m looking to collaborate on **Audio Programs and Drivers**
 - 🤝 I’m looking for help with [scrapegoat](https://github.com/pi22by7/scrapegoat)
 - 👨‍💻 All of my projects are available at [pi22by7.me](https://pi22by7.me)
-- 📝 I regularly write articles on [piyushstuff.medium.com](https://piyushstuff.medium.com/)
+- 📝 I regularly write articles on [piyushstuff.medium.com](https://piyushstuff.medium.com/) (inactive)
 - 💬 Ask me about **react, tauri, qt5**
 - 📫 How to reach me **supmanireallywannatalktoyou@pi22by7.me**
 - ⚡ Fun fact: **snails sleep for atleast 3**
