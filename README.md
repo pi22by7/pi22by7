@@ -1,56 +1,62 @@
-# <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> I'm Pi.
-I code and stuff.
+# Hey there! 👋 I'm Piyush
 
-- 🔭 I’m currently working on [Code-Cartographer](https://[github.com/pi22by7/Wallrus)
-- 🌱 I’m currently learning **SvelteKit, Rust**
-- 👯 I’m looking to collaborate on **Audio Programs and Drivers**
-- 🤝 I’m looking for help with [flowrite](https://github.com/pi22by7/flowrite)
-- 👨‍💻 All of my projects are available at [pi22by7.me](https://pi22by7.me)
-- 📝 I regularly write articles on [piyushstuff.medium.com](https://piyushstuff.medium.com/) (inactive)
-- 💬 Ask me about **react, tauri, qt5**
-- 📫 How to reach me **talk@pi22by7.me**
-- ⚡ Fun fact: **snails sleep for atleast 3**
+**Co-Founder & CEO** at Blink42 Technologies | **Tech Entrepreneur** | **AI Engineering Leader**
+
+> Building AI-powered recommendations and real-time systems 🚀
+
+---
+
+## 🎯 What I'm up to
+
+- 🚀 **Leading** [Blink42 Technologies](https://blink42.in) - working on AI-powered product discovery
+- 🤖 **Building** SiBi - an AI recommendation platform
+- 📊 **Engineering** petabyte-scale financial data systems at TCS (American Express)
+- 🛠️ **Exploring** advanced ML architectures and real-time data processing
 
 ## 🛠️ Languages and Tools
+
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,ts,matlab,react,svelte,tailwind,nodejs,mongodb,androidstudio,arduino,idea,blender,unreal,docker,aws,bash,git,linux,ableton,ps,ai,au,ae&perline=5" />
+    <img src="https://skillicons.dev/icons?i=python,ts,rust,cpp,go,svelte,nextjs,react,tailwind,flutter,nodejs,tauri,mongodb,redis,postgres,aws,docker,git,linux,neovim,figma,arduino,tensorflow,java,gtk&perline=5" />
   </a>
 </p>
 
-## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
+---
+
 <p align="center">
- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pi22by7&theme=tokyonight" alt="stats" />
-  <br><br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pi22by7&theme=tokyonight" alt="langs" />
-  &nbsp;&nbsp;
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pi22by7&theme=tokyonight" alt="stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pi22by7&theme=github_dark" alt="GitHub Stats" />
 </p>
 
-## 🎙️ Connect with me
 <p align="center">
- <a href="https://twitter.com/piratesoutoften" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piratesoutoften" height="30" width="40" />
- </a>
- <a href="https://linkedin.com/in/piyush-airani" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-airani" height="30" width="40" />
- </a>
- <a href="https://instagram.com/pi_22by7" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pi_22by7" height="30" width="40" />
- </a>
- <a href="https://medium.com/@piyushstuff" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@piyushstuff" height="30" width="40" />
- </a>
- <a href="https://www.leetcode.com/pi22by7" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pi22by7" height="30" width="40" />
- </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pi22by7&theme=github_dark" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pi22by7&theme=github_dark" width="350" />
 </p>
-
-## ✍🏽 Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pi22by7&icon=0&color=5)](https://pi22by7.me)
 
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://pi22by7.me" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-1e1e2e?style=for-the-badge&logoColor=white&logo=globe" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/piyush-airani" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077b5?style=for-the-badge&logoColor=white&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:piyushairani@outlook.com" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-0078d4?style=for-the-badge&logoColor=white&logo=mail" alt="Email" />
+  </a>
+  <a href="https://medium.com/@piyushstuff" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Medium-12100e?style=for-the-badge&logoColor=white&logo=medium" alt="Medium" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=pi22by7&icon=2&color=6" alt="Profile Views" />
+</p>
