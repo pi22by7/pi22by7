@@ -12,12 +12,15 @@
 - 🤖 **Building** SiBi - an AI recommendation platform
 - 📊 **Engineering** petabyte-scale financial data systems at work
 - 🛠️ **Exploring** advanced ML architectures and real-time data processing
+- 🤝 I’m looking for help with [flowrite](https://github.com/pi22by7/flowrite)
+- 👨‍💻 All of my projects are available at [pi22by7.me](https://pi22by7.me)
+- 📫 How to reach me **talk@pi22by7.me**
 
 ## 🛠️ Languages and Tools
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=python,ts,rust,cpp,go,svelte,nextjs,react,tailwind,flutter,nodejs,tauri,mongodb,redis,postgres,aws,docker,git,linux,neovim,figma,arduino,tensorflow,java,gtk&perline=5" />
+    <img src="https://skillicons.dev/icons?i=py,ts,cpp,java,go,react,svelte,tailwind,nodejs,mongodb,androidstudio,arduino,neovim,blender,unreal,docker,aws,bash,git,linux,ableton,ps,ai,au,ae&perline=5" />
   </a>
 </p>
 
