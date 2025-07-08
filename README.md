@@ -10,7 +10,7 @@
 
 - 🚀 **Leading** [Blink42 Technologies](https://blink42.in) - working on AI-powered product discovery
 - 🤖 **Building** SiBi - an AI recommendation platform
-- 📊 **Engineering** petabyte-scale financial data systems at TCS (American Express)
+- 📊 **Engineering** petabyte-scale financial data systems at work
 - 🛠️ **Exploring** advanced ML architectures and real-time data processing
 
 ## 🛠️ Languages and Tools
