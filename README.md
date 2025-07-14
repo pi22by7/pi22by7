@@ -46,7 +46,7 @@
   <a href="https://linkedin.com/in/piyush-airani" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077b5?style=for-the-badge&logoColor=white&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:piyushairani@outlook.com" target="_blank">
+  <a href="mailto:talk@pi22by7.me" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-0078d4?style=for-the-badge&logoColor=white&logo=mail" alt="Email" />
   </a>
   <a href="https://medium.com/@piyushstuff" target="_blank">
@@ -56,10 +56,4 @@
 
 <p align="center">
   <i>"The best way to predict the future is to build it."</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pi22by7&icon=2&color=6" alt="Profile Views" />
 </p>
