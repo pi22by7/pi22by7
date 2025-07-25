@@ -1,27 +1,30 @@
-# Hey there! 👋 I'm Piyush
+# Hi, I'm Piyush 👋🏽
 
-**Co-Founder & CEO** at Blink42 Technologies | **Tech Entrepreneur** | **AI Engineering Leader**
+Open Source Developer | Systems Engineer | Founder
 
-> Building AI-powered recommendations and real-time systems 🚀
+> Creating, building, sharing - repeat 🔄
 
 ---
 
-## 🎯 What I'm up to
+## 🎯 What I'm working on
 
-- 🚀 **Leading** [Blink42 Technologies](https://blink42.in) - working on AI-powered product discovery
-- 🤖 **Building** SiBi - an AI recommendation platform
-- 📊 **Engineering** petabyte-scale financial data systems at work
-- 🛠️ **Exploring** advanced ML architectures and real-time data processing
-- 🤝 I’m looking for help with [flowrite](https://github.com/pi22by7/flowrite)
-- 👨‍💻 All of my projects are available at [pi22by7.me](https://pi22by7.me)
-- 📫 How to reach me **talk@pi22by7.me**
+- 🎵 **[Flowrite](https://github.com/pi22by7/flowrite)** - An open-source songwriting app built with Flutter. No ads, no paywalls, just creativity.
+- 🦭 **[Wallrus](https://github.com/pi22by7/wallrus)** - Cross-platform wallpaper manager with native Wayland support
+- 🗺️ **[Code Cartographer](https://marketplace.visualstudio.com/items?itemName=pi22by7.code-cartographer)** - VS Code extension for generating LLM-optimized codebase documentation
+- 💼 **Cofounder** at [Blink42 Technologies](https://blink42.in) - a product studio and SaaS playground
 
-## 🛠️ Languages and Tools
+## 💭 Why I build
+
+I focus on creating meaningful software that solves real problems. Whether it's making creative tools accessible to everyone, streamlining development workflows, or building systems that just work - I believe good software should remove barriers, not create them.
+
+## 🤝🏽 Looking for contributors
+
+I'm especially looking for help with **[Flowrite](https://github.com/pi22by7/flowrite)** - if you're passionate about creative tools, Flutter development, or just want to contribute to something meaningful, I'd love to collaborate!
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=py,ts,cpp,java,go,react,svelte,tailwind,nodejs,mongodb,androidstudio,arduino,neovim,blender,unreal,docker,aws,bash,git,linux,ableton,ps,ai,au,ae&perline=5" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,ts,dart,cpp,rust,flutter,react,svelte,nodejs,supabase,docker,linux,git,vscode&perline=7" />
 </p>
 
 ---
@@ -37,7 +40,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://pi22by7.me" target="_blank">
@@ -49,11 +52,8 @@
   <a href="mailto:talk@pi22by7.me" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-0078d4?style=for-the-badge&logoColor=white&logo=mail" alt="Email" />
   </a>
-  <a href="https://medium.com/@piyushstuff" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Medium-12100e?style=for-the-badge&logoColor=white&logo=medium" alt="Medium" />
-  </a>
 </p>
 
 <p align="center">
-  <i>"The best way to predict the future is to build it."</i>
+  <i>"The desire to create is one of the deepest yearnings of the human soul." - Dieter F. Uchtdorf</i>
 </p>
