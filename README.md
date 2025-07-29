@@ -11,7 +11,7 @@ Open Source Developer | Systems Engineer | Founder
 - 🎵 **[Flowrite](https://github.com/pi22by7/flowrite)** - An open-source songwriting app built with Flutter. No ads, no paywalls, just creativity.
 - 🦭 **[Wallrus](https://github.com/pi22by7/wallrus)** - Cross-platform wallpaper manager with native Wayland support
 - 🗺️ **[Code Cartographer](https://marketplace.visualstudio.com/items?itemName=pi22by7.code-cartographer)** - VS Code extension for generating LLM-optimized codebase documentation
-- 💼 **Cofounder** at [Blink42 Technologies](https://blink42.in) - a product studio and SaaS playground
+- 💼 **Cofounder** at [blink42 Technologies](https://blink42.in) - a product studio and SaaS playground
 
 ## 💭 Why I build
 
