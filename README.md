@@ -1,59 +1,56 @@
-# Hi, I'm Piyush 👋🏽
+# hey, i'm piyush
 
-Open Source Developer | Systems Engineer | Founder
+I build things. Sometimes they work, sometimes they don't. When they do, I share them.
 
-> Creating, building, sharing - repeat 🔄
+## what's working
+
+**[In-Memoria](https://github.com/pi22by7/In-Memoria)** — Memory for AI coding assistants
+![Downloads](https://img.shields.io/badge/downloads-3k%2Fmonth-blue?style=flat-square)
+![Stars](https://img.shields.io/github/stars/pi22by7/In-Memoria?style=flat-square&color=yellow)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+Built because I was frustrated with context loss. Now it's on 3,000+ machines.
+
+**[Flowrite](https://github.com/pi22by7/flowrite)** — Songwriting app for mobile/desktop
+![Platform](https://img.shields.io/badge/6%20platforms-flutter-02569B?style=flat-square&logo=flutter)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+
+No ads, no BS. Built because existing tools suck.
+
+**[HQLint](https://github.com/pi22by7/HQLint)** — VS Code extension for Hive
+![VS Code](https://img.shields.io/badge/vscode-extension-007ACC?style=flat-square&logo=visualstudiocode)
+
+Built because I use HQL every day and the tooling is stuck in 2010.
+
+## what pays the bills
+
+Big Data Engineer at TCS/AmEx. Processing 6TB+ of financial data daily, building compliance pipelines that can't fail.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+
+## what else
+
+Co-founded [blink42](https://blink42.in) from a college project. Now it's a product studio where I experiment and take on interesting client work on weekends.
+
+## stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,ts,rust,cpp,go,nodejs,svelte,tailwind,flutter,postgres,mongodb,redis,docker,aws,linux,neovim,git,ableton&perline=6" />
+</p>
+
+## open to
+
+Collaborating on developer tools, infrastructure, or things that make life easier.
 
 ---
 
-## 🎯 What I'm working on
+<div align="center">
 
-- 🎵 **[Flowrite](https://github.com/pi22by7/flowrite)** - An open-source songwriting app built with Flutter. No ads, no paywalls, just creativity.
-- 🦭 **[Wallrus](https://github.com/pi22by7/wallrus)** - Cross-platform wallpaper manager with native Wayland support.
-- 🗺️ **[In Memoria](https://github.com/pi22by7/In-Memoria)** - Persistent memory and pattern learning for AI coding assistants via MCP.
-- 💼 **Cofounder** at [blink42 Technologies](https://blink42.in) - a product studio and SaaS playground.
+[![website](https://img.shields.io/badge/pi22by7.me-black?style=for-the-badge&logo=vercel)](https://pi22by7.me)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pi22by7)
+[![email](https://img.shields.io/badge/talk@pi22by7.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talk@pi22by7.me)
 
-## 💭 Why I build
-
-I focus on creating meaningful software that solves real problems. Whether it's making creative tools accessible to everyone, streamlining development workflows, or building systems that just work - I believe good software should remove barriers, not create them.
-
-## 🤝🏽 Looking for contributors
-
-I'm especially looking for help with **[Flowrite](https://github.com/pi22by7/flowrite)** - if you're passionate about creative tools, Flutter development, or just want to contribute to something meaningful, I'd love to collaborate!
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,dart,cpp,rust,flutter,react,svelte,nodejs,supabase,docker,linux,git,vscode&perline=7" />
-</p>
-
----
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pi22by7&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pi22by7&theme=github_dark" width="350" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pi22by7&theme=github_dark" width="350" />
-</p>
-
----
-
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="https://pi22by7.me" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-1e1e2e?style=for-the-badge&logoColor=white&logo=globe" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/piyush-airani" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077b5?style=for-the-badge&logoColor=white&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:talk@pi22by7.me" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Email-0078d4?style=for-the-badge&logoColor=white&logo=mail" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"The desire to create is one of the deepest yearnings of the human soul." - Dieter F. Uchtdorf</i>
-</p>
+</div>
