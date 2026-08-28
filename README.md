@@ -47,7 +47,7 @@ Co-founded [blink42](https://blink42.in) from a college project, grew it into a 
 ## stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,ts,rust,cpp,go,nodejs,svelte,angular,tailwind,flutter,azure,postgres,mongodb,redis,docker,aws,linux,neovim,git,ableton&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,ts,rust,cpp,go,nodejs,svelte,angular,tailwind,flutter,azure,postgres,mongodb,redis,docker,aws,linux,neovim,git,terraform,kafka&perline=7" />
 </p>
 
 ## open to
