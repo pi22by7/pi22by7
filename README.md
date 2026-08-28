@@ -58,8 +58,8 @@ Collaborating on developer tools, infrastructure, or things that make life easie
 
 <div align="center">
 
-[![website](https://img.shields.io/badge/pi22by7.me-black?style=for-the-badge&logo=vercel)](https://pi22by7.me)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pi22by7)
-[![email](https://img.shields.io/badge/talk@pi22by7.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talk@pi22by7.me)
+[![website](https://img.shields.io/badge/pi22by7.me-000000?style=flat-square)](https://pi22by7.me)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pi22by7)
+[![email](https://img.shields.io/badge/talk@pi22by7.me-EA4335?style=flat-square&logoColor=white)](mailto:talk@pi22by7.me)
 
 </div>
