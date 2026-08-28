@@ -25,15 +25,19 @@ Built because I use HQL every day and the tooling is stuck in 2010.
 
 ## what pays the bills
 
-Big Data Engineer at TCS/AmEx. Processing 6TB+ of financial data daily, building compliance pipelines that can't fail.
+Technical Value Engineer at Celonis. I architect a synthetic data generation framework that reverse-engineers target KPIs into realistic, process-accurate demo datasets for the EMS platform — so Value Engineers can self-serve pre-sales demos instead of waiting on a handful of specialists.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
+Previously spent 2 years as a Big Data Engineer at TCS, processing 6TB+ of financial compliance data daily on Hadoop/Hive/HBase clusters.
+
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
 
 ## what else
 
-Co-founded [blink42](https://blink42.in) from a college project. Now it's a product studio where I experiment and take on interesting client work on weekends.
+Co-founded [blink42](https://blink42.in) from a college project — grew it into a product studio, shipped client work and side projects like YellowShuttl and Reparo.
 
 ## stack
 
